@@ -1,0 +1,5 @@
+127.0.0.1 - - [14/Jun/2022:17:26:34 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [14/Jun/2022:17:26:34 +0900] "GET /WithTrip/WEB-INF/withtrip_goods.html HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [14/Jun/2022:17:26:35 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+127.0.0.1 - - [14/Jun/2022:17:27:27 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [14/Jun/2022:17:27:28 +0900] "GET /WithTrip/withtrip_notice_detail.html HTTP/1.1" 404 721

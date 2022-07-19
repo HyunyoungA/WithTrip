@@ -1,0 +1,5 @@
+package com.withtrip.WithTrip.chat.model.vo;
+
+public class Chat {
+
+}

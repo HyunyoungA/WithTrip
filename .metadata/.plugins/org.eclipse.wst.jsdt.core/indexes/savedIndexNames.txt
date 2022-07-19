@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+C:\WithTrip\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2434059754.index
+2744038880.index
+765420366.index
+547374882.index
+3934312219.index
+4252214119.index
+3962786564.index
+3952444476.index
+2780896507.index
